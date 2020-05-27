@@ -1,0 +1,6 @@
+ul #pagination li{
+  display:inline;
+}
+ul #pagination li:active {
+  background: red;
+}
